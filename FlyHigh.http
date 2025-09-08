@@ -1,0 +1,6 @@
+@FlyHigh_HostAddress = http://localhost:5183
+
+GET {{FlyHigh_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
